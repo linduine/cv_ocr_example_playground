@@ -1,5 +1,5 @@
 # cv_ocr_example_playground
-Here is a small script to showcase a simple Computer Vision (OCR) project that can be quickly built with OpenCV and Tesseract. The script processes the camera video and extracts the recognized text. You can play with it with printed out or handwritten (print style) texts/cards. The script assumes all texts are in English, but Tesseract can recognize Latin characters as well. 
+Here is a small script to showcase a simple Computer Vision (OCR) project that can be quickly built with OpenCV and Tesseract. The script processes camera video output and extracts recognized text. You can play with it with printed out or handwritten (print style) texts/cards. The script assumes all texts are in English, but Tesseract can recognize Latin characters as well. 
 
 # What to install before playing with the playground.py script:
 
